@@ -1,0 +1,5 @@
+# 抖音修改IP (Loon，Surge)
+#如果你不知道自己抖音分流的IP是不是家宽，可以访问https://ipinfo.io 查看，在asn 信息中如果你看到type: "isp"那就是家庭宽带，其他值（比如：hosting，business）都不是家宽。
+
+DOMAIN-SUFFIX,amemv.com,PROXY
+DOMAIN-SUFFIX,douyinvod.com,PROXY
